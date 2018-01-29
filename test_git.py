@@ -1,5 +1,4 @@
-# Finding GCD
-
+# Finding GCD Revised Version
 def GCD(a,b):
     if b == 0:
         return a
